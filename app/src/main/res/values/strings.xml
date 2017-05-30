@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Zadanie5</string>
+    <string-array name="languages">
+        <item>Samsung A5 2016</item>
+        <item>Samsung A3 2016</item>
+        <item>Samsung J5 2016</item>
+    </string-array>
+
+    <string-array name="galaxy_a5">
+        <item>Procesor: Samsung Exynos 7580 (8 rdzeni, 1.60 GHz, A53)</item>
+        <item>Pamięć RAM: 2GB</item>
+        <item>system operacyjny: Android 5.1 </item>
+        <item>Pamięć wbudowana: 16GB</item>
+        <item>Przekątna ekranu: 5,2"</item>
+        <item>Rozdzielczość ekranu: 1920x1080</item>
+        <item>Bateria: Litowo-jonowa 2900 mAh</item>
+        <item>Aparat: 5.0 Mpix - przód,  13.0 Mpix - tył</item>
+        <item>Gwarancja: 24 miesiące (gwarancja producenta)</item>
+    </string-array>
+
+    <string-array name="galaxy_a3">
+        <item>Procesor: Samsung Exynos 7578 4 rdzenie</item>
+        <item>system operacyjny: Android 5.1 </item>
+        <item>Pamięć RAM: 1536 MB</item>
+        <item>układ graficzny: Adreno 306</item>
+        <item>Przekątna ekranu: 4,7"</item>
+        <item>Rozdzielczość ekranu: 1280x720</item>
+        <item>Bateria: Litowo-jonowa 2300 mAh</item>
+        <item>Aparat: 5.0 Mpix - przód,  13.0 Mpix - tył</item>
+        <item>Gwarancja: 24 miesiące (gwarancja producenta)</item>
+    </string-array>
+
+    <string-array name="galaxy_j5">
+        <item>Procesor: Qualcomm MSM8916 Snapdragon 410 </item>
+        <item>układ graficzny: Adreno 305</item>
+        <item>system operacyjny: Android 6.0 </item>
+        <item>Pamięć RAM: 2GB</item>
+        <item>Pamięć wbudowana: 16GB</item>
+        <item>Przekątna ekranu: 5,2"</item>
+        <item>Rozdzielczość ekranu: 1280x720</item>
+        <item>Bateria: Litowo-jonowa 3100 mAh </item>
+        <item>Aparat: 5.0 Mpix - przód,  13.0 Mpix - tył</item>
+        <item>Gwarancja: 24 miesiące (gwarancja producenta)</item>
+    </string-array>
+
+
+</resources>
